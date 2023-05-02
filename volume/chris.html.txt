@@ -1,0 +1,141 @@
+<html>
+<head>
+<title>RESUME</title>
+</head>
+<style>
+p
+{
+border:5px solid gray
+}
+</style>
+
+<p>
+
+<body>
+<center>
+<h1>
+<div style="background-color:green;color:white;padding:06px;">
+<u>MY RESUME</u>
+</h1>
+</center>
+<h3>CHRISTOPHER MWENDWA MUASYA</h3>
+<img src="img\chris.jpg" width="40%" height="50%" align "right">s
+<h5>Name:Christopher Mwendwa</h5>
+<h5>Profile:ICT tech</h5>
+<h5>Date of Birth:15/5/1997</h5>
+<h5>Religion:Christian</h5>
+<h5>Contact:07xxxxx92</h5>
+<h5>Email:muasyamwendwa855@gmail.com</h5><hr>
+
+<h2>
+<div style="background-color:gray;color:white;padding:06px;">
+<u>CAREER OBJECTIVE</u>
+</h2>
+
+<h3> Christopher is a trained in Information Communication Technology as a Technician from Kenya Coast National Polytechnic ,<br>
+with a Certificate in ICT . He has good practical exposure in Mainteinance.<br>
+Since 2016, working at the capacity of either team player, lead expert or both in aforementioned field.
+Christopher is acquainted and excellent with presentation and analysis technologies on Maintenance. 
+Christopher has been working with Google since 2016 up to date. 
+</h3>
+
+<h2><sup>christopher</sup><sub>mwendwa</sub></h2>
+
+<h2>
+<div style="background-color:purple;color:white;padding:06px;">
+<u> EDUCATION BACKGROUND</u>
+</h2>
+
+<table border = 5 width = 1000>
+<tr>
+	<th>Year of Accomplishment</th>
+	<th>Award</th>
+	<th>School/Institute</th>
+	<th>Grades</th>
+</tr>
+<tr>
+	<th>2018</th>
+	<th>Certificate Information Communication Technology</th>
+	<th>Kenya Coast National Polytechnic</th>
+	<th>CREDIT</th>
+</tr>
+<tr>
+	<th>2016</th>
+	<th>K.C.S.E</th>
+	<th>Mwala Shool</th>
+	<th>C</th>
+</tr>
+<tr>
+	<th>2012</th>
+	<th>K.C.P.E</th>
+	<th>Haventon Academy</th>
+	<th>C+</th>
+</tr><hr>
+</table>
+
+<h2>
+<div style="background-color:red;color:white;padding:06px;">
+<u>PERSONAL ATTRIBUTES</u>
+</h2>
+
+<ul>
+	<h3>
+	<b>
+	<li>Excellent communication skills,social,organization and presentaion skills.
+	<li>Vastity self-motivated and hard working
+	<li>Responsible and dedication team work
+	<li>Ambitious and Trustworthy
+	<li>Organization and time manager
+	<h3>
+	<b>
+</li><hr>
+
+<h2>
+<div style="background-color:green;color:white;padding:06px;">
+<u>STRENGTH</u>
+</h2>
+
+<ul>
+	<b>
+	<h3>
+	<li>Good Communiacation skills
+	<li>Focused and Confident with positive Attitude
+	<li>Good team player
+	<li>Self Motivated</li>
+	<h3>
+	<b>
+</ul><hr>
+
+<h2>
+<div style="background-color:yellow;color:white;padding:06px;">
+<u>LANGUAGES</u>
+</h2>
+<ul>
+	<b>
+	<h3>
+	<li>English Excellent 
+	<li>Kiswahili Excellent</li>
+</ul><hr>
+
+<h2>
+<div style="background-color:blue;color:white;padding:06px;">
+<u>PERSONAL DETAILS</u>
+</h2>
+<ul>
+	<b>
+	<h4>
+	<li>Name: Christopher Mwendwa
+	<li>Married: No
+	<li>Hobbies:</li>
+			<ul>
+			<li>Reading
+			<li>Swimming
+			<li>Travelling</li>
+			</ul>
+
+	</h4>
+	</b>
+</ul><hr>
+</body>
+</p>
+</html>
